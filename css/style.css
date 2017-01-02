@@ -230,9 +230,9 @@ p{ margin:0; padding:0;}
 .cartext_wrapper{ background: url("../images/text_middle_conbg.jpg"); background-size: 1920px; height: 1191px; position: relative;}
 
 
-.local_carlogo{ display: block; width: 100%; position: absolute; top:470px; }
+.local_carlogo{ display: block; width: 100%; position: absolute; top:470px; left: 570px; }
 
-.local_carlogo img{ margin-left: 564px; position: relative; z-index: 99;}
+.local_carlogo img{  position: relative; z-index: 99;}
 
 .localcar_roundwrapper{ background: url("../images/text_ring_bg.png") no-repeat; width: 1469px; height: 1011px; display: block; margin: 90px auto; position: relative;}
 
@@ -284,3 +284,18 @@ p{ margin:0; padding:0;}
 .car_text6 h2{ color: #ff6868;}
 
 .car_text6 h3{  background: url("../images/text_conbg6.png") no-repeat center bottom;}
+
+
+
+.car_text7{ width: 360px; background: url("../images/con_7img.png") no-repeat left top; padding-top: 170px; top: 610px; left:40px; position: absolute; }
+
+.car_text7 h2{ color: #50fff4;}
+
+.car_text7 h3{  background: url("../images/text_conbg7.png") no-repeat center bottom;}
+
+
+.car_text8{ width: 425px; background: url("../images/con_8img.png") no-repeat center top; padding-top: 175px; top: 200px; left:-115px; position: absolute; }
+
+.car_text8 h2{ color: #c280fe;}
+
+.car_text8 h3{  background: url("../images/text_conbg8.png") no-repeat center bottom;}
