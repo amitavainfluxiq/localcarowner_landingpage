@@ -230,7 +230,7 @@ p{ margin:0; padding:0;}
 .cartext_wrapper{ background: url("../images/text_middle_conbg.jpg"); background-size: 1920px; height: 1191px; position: relative;}
 
 
-.local_carlogo{ display: block; width: 100%; position: absolute; top:470px; left: 570px; }
+.local_carlogo{ display: block; width: 100%; position: absolute; top:380px; left: 520px; }
 
 .local_carlogo img{  position: relative; z-index: 99;}
 
@@ -241,7 +241,7 @@ p{ margin:0; padding:0;}
 .localcar_roundwrapper h3{ margin: 0px; padding: 0px; font-size: 16px;  color: #fff; text-align: center;  font-family:'OpenSans-Regular'; line-height: 22px; padding-bottom: 60px;}
 
 
-.car_text1{ width: 315px; background: url("../images/con_1img.png") no-repeat center top; padding-top: 175px; top: -22px; left:550px; position: absolute; }
+.car_text1{ width: 315px; background: url("../images/con_1img.png") no-repeat center top; padding-top: 175px; top: -22px; left:570px; position: absolute; }
 
 .car_text1 h2{ color: #fd83b3;}
 
@@ -299,3 +299,12 @@ p{ margin:0; padding:0;}
 .car_text8 h2{ color: #c280fe;}
 
 .car_text8 h3{  background: url("../images/text_conbg8.png") no-repeat center bottom;}
+
+
+
+.car_text9{ width: 405px; background: url("../images/con_9img.png") no-repeat center top; padding-top: 175px; top: 42px; left:180px; position: absolute; }
+
+.car_text9 h2{ color: #a2e05f;}
+
+.car_text9 h3{  background: url("../images/text_conbg9.png") no-repeat center bottom;}
+
