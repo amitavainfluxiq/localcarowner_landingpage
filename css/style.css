@@ -142,20 +142,20 @@ p{ margin:0; padding:0;}
 .bannertoptextcon{ position: absolute; bottom: -10px; width: 100%;}
  .bannertoptextcon h1{ -webkit-box-shadow: 0px 14px 20px -6px rgba(0,0,0,0.75);
      -moz-box-shadow: 0px 14px 20px -6px rgba(0,0,0,0.75);
-     box-shadow: 0px 14px 20px -6px rgba(0,0,0,0.75); background: #ffd200; width: 610px; margin-left: 106px; text-align: center; padding: 8px; font-size: 36px; color: #013a55; text-transform: uppercase;  font-family:'OpenSans-Bold';}
+     box-shadow: 0px 14px 20px -6px rgba(0,0,0,0.75); background: #ffd200; width: 610px; margin-left: 106px; text-align: center; padding: 8px; font-size: 36px; color: #013a55; text-transform: uppercase;  font-family:'OpenSans-Bold'; position: relative; z-index: 9;}
 
 
 
 
  .top_bannertext1{ background: #0273a8;}
 
- .top_bannertext1 h2{ width: 880px; text-align: center; margin: 0; padding: 23px 0; margin-left: -36px; font-size: 38px; color: #ffffff; font-family:'OpenSans-Bold'; text-transform: uppercase;  text-shadow: 0 0 6px #282828;}
+ .top_bannertext1 h2{ width: 880px; text-align: center; margin: 0; padding: 23px 0; margin-left: -36px; font-size: 38px; color: #ffffff; font-family:'OpenSans-Bold'; text-transform: uppercase;  text-shadow: 0 0 6px #282828;  position: relative; z-index: 9;}
 
 
  .top_bannertext2{ background:url("../images/textbg2.jpg") left top;}
 
 
- .top_bannertext2 h2{ width: 880px; text-align: center; margin: 0; padding: 23px 0;  font-size: 30px; color: #012b2e; font-family:'OpenSans-Bold';  text-shadow: 0 0 6px #04b5c0;}
+ .top_bannertext2 h2{ width: 880px; text-align: center; margin: 0; padding: 23px 0;  font-size: 30px; color: #012b2e; font-family:'OpenSans-Bold';  text-shadow: 0 0 6px #04b5c0;  position: relative; z-index: 9;}
 
 
  .topform_wrapper{ position: absolute; top: 250px; width: 100%;}
@@ -225,3 +225,62 @@ p{ margin:0; padding:0;}
 
 
 .form_mainbox .has-error{ font-size: 12px; color: #ff0000;}
+
+
+.cartext_wrapper{ background: url("../images/text_middle_conbg.jpg"); background-size: 1920px; height: 1191px; position: relative;}
+
+
+.local_carlogo{ display: block; width: 100%; position: absolute; top:470px; }
+
+.local_carlogo img{ margin-left: 564px; position: relative; z-index: 99;}
+
+.localcar_roundwrapper{ background: url("../images/text_ring_bg.png") no-repeat; width: 1469px; height: 1011px; display: block; margin: 90px auto; position: relative;}
+
+
+.localcar_roundwrapper h2{ margin: 0px; padding: 0px; font-size: 36px; text-transform: uppercase; text-align: center; font-family:'OpenSans-Semibold'; padding-bottom: 12px; }
+.localcar_roundwrapper h3{ margin: 0px; padding: 0px; font-size: 16px;  color: #fff; text-align: center;  font-family:'OpenSans-Regular'; line-height: 22px; padding-bottom: 60px;}
+
+
+.car_text1{ width: 315px; background: url("../images/con_1img.png") no-repeat center top; padding-top: 175px; top: -22px; left:550px; position: absolute; }
+
+.car_text1 h2{ color: #fd83b3;}
+
+.car_text1 h3{  background: url("../images/text_conbg1.png") no-repeat center bottom;}
+
+
+
+.car_text2{ width: 286px; background: url("../images/con_2img.png") no-repeat center top; padding-top: 175px; top: 42px; left:900px; position: absolute; }
+
+.car_text2 h2{ color: #21befe;}
+
+.car_text2 h3{  background: url("../images/text_conbg2.png") no-repeat center bottom;}
+
+
+
+.car_text3{ width: 370px; background: url("../images/con_3img.png") no-repeat center top; padding-top: 175px; top: 213px; right:-35px; position: absolute; }
+
+.car_text3 h2{ color: #bed607;}
+
+.car_text3 h3{  background: url("../images/text_conbg3.png") no-repeat center bottom;}
+
+
+
+.car_text4{ width: 360px; background: url("../images/con_4img.png") no-repeat 160px top; padding-top: 165px; top: 590px; right:40px; position: absolute; }
+
+.car_text4 h2{ color: #fac42b;}
+
+.car_text4 h3{  background: url("../images/text_conbg4.png") no-repeat center bottom;}
+
+
+.car_text5{ width: 300px; background: url("../images/con_5img.png") no-repeat center bottom; padding-bottom: 130px; bottom: 14px; right:420px; position: absolute; }
+
+.car_text5 h2{ color: #fc9152;}
+
+.car_text5 h3{  background: url("../images/text_conbg5.png") no-repeat center bottom;}
+
+
+.car_text6{ width: 338px; background: url("../images/con_6img.png") no-repeat 100px bottom; padding-bottom: 130px; bottom: 16px; right:750px; position: absolute; }
+
+.car_text6 h2{ color: #ff6868;}
+
+.car_text6 h3{  background: url("../images/text_conbg6.png") no-repeat center bottom;}
